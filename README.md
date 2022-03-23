@@ -5,7 +5,7 @@
 **Time:** 1:00 PM - 3:00 PM PST
 
 ## Description:
-* Getting started on TSCC: This training will cover everything new users need to know about using the TSCC system. Topics will include: an overview of condo/hotel program; how to apply; accounts and allocation usage monitoring; environment and software modules; overview of various queues, building PBS job scripts, job submission and monitoring; data transfers; and file systems.
+Getting started on TSCC: This training will cover everything new users need to know about using the TSCC system. Topics will include: an overview of condo/hotel program; how to apply; accounts and allocation usage monitoring; environment and software modules; overview of various queues, building PBS job scripts, job submission and monitoring; data transfers; and file systems.
 
 ## Video Recordings:
 * Interactive Video 
