@@ -9,7 +9,7 @@ Getting started on TSCC: This training will cover everything new users need to k
 
 ## Video Recordings:
 * Interactive Video 
-* YouTube
+* YouTube: https://www.youtube.com/watch?v=WD4-JW3CpJ8
 
 ## Presentation Material:
 * https://github.com/sdsc-hpc-training-org/tscc-101/blob/main/TSCC_101.pdf
